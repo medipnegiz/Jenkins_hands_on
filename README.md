@@ -8,3 +8,5 @@ Jenkins Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 <hr>
 
 ## Index 📜
+
+### 🔖 [Jenkins__Installing_Jenkins]()
