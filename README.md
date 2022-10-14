@@ -13,5 +13,6 @@ Jenkins Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 Purpose of the this hands-on training is to learn how to install Jenkins Server on Amazon Linux 2 EC2 instance and build simple jobs.
 
 ### 🔖 [Jenkins__Triggers](https://github.com/medipnegiz/Jenkins_hands_on/tree/main/Jenkins__Triggers)
+Purpose of the this hands-on training is to learn how to trigger Jenkins jobs with different ways.
 
 ### 🔖 [Jenkins__Maven](https://github.com/medipnegiz/Jenkins_hands_on/tree/main/Jenkins__Maven)
