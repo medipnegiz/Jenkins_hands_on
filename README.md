@@ -10,3 +10,5 @@ Jenkins Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 ## Index 📜
 
 ### 🔖 [Jenkins__Installing_Jenkins](https://github.com/medipnegiz/Jenkins_hands_on/tree/main/Jenkins__Installing_Jenkins)
+
+### 🔖 [Jenkins__Triggers](https://github.com/medipnegiz/Jenkins_hands_on/tree/main/Jenkins__Triggers)
