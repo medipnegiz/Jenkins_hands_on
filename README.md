@@ -19,3 +19,4 @@ Purpose of the this hands-on training is to learn how to trigger Jenkins jobs wi
 Purpose of the this hands-on training is to learn how to install Java and Maven to Jenkins Server and configure Maven/Java Jobs.
 
 ### 🔖 [Jenkins__Tomcat](https://github.com/medipnegiz/Jenkins_hands_on/tree/main/Jenkins__Tomcat)
+Purpose of the this hands-on training is to install & configure Tomcat server for staging and prodcution environment.
