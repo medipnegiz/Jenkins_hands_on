@@ -22,3 +22,4 @@ Purpose of the this hands-on training is to learn how to install Java and Maven 
 Purpose of the this hands-on training is to install & configure Tomcat server for staging and prodcution environment.
 
 ### 🔖 [Jenkins__Deployment](https://github.com/medipnegiz/Jenkins_hands_on/tree/main/Jenkins__Deployment)
+Purpose of the this hands-on training is to learn how to deploy applications to Staging/Production Environment with Jenkins.
