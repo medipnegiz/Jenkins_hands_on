@@ -24,4 +24,4 @@ Purpose of the this hands-on training is to install & configure Tomcat server fo
 ### 🔖 [Jenkins__Deployment](https://github.com/medipnegiz/Jenkins_hands_on/tree/main/Jenkins__Deployment)
 Purpose of the this hands-on training is to learn how to deploy applications to Staging/Production Environment with Jenkins.
 
-### 🔖 [Jenkins__Slave_Node]()
+### 🔖 [Jenkins__Slave_Node](https://github.com/medipnegiz/Jenkins_hands_on/tree/main/Jenkins__Slave_Node)
